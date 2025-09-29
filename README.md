@@ -25,7 +25,7 @@ samples, guidance on mobile development, and a full API reference.
 
 **3. Make the app prettier**
 
-![alt text](<img/make the app prettier.mp4>)
+![alt text](<img/make the app prettier.gif>)
 
 **4. Add functionality**
 
@@ -38,3 +38,7 @@ samples, guidance on mobile development, and a full API reference.
 **6. Add a new page**
 
 ![alt text](<img/add a new page.gif>)
+
+**7. Advanced version**
+
+![alt text](<img/advanced version.gif>)
