@@ -14,3 +14,27 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+**1. Create a project**
+
+![alt text](<img/create a project.png>)
+
+**2. Add a button**
+
+![alt text](<img/add a button.gif>)
+
+**3. Make the app prettier**
+
+![alt text](<img/make the app prettier.mp4>)
+
+**4. Add functionality**
+
+![alt text](<img/add functionality.gif>)
+
+**5. Add navigation rail**
+
+![alt text](<img/add navigation rail.gif>)
+
+**6. Add a new page**
+
+![alt text](<img/add a new page.gif>)
